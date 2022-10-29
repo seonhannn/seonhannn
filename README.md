@@ -1,18 +1,22 @@
-### Hi There 👋
+### 선한 영향력을 주는 개발자가 되고 싶은, 한지선입니다. 👋
 <a href="seon.hannn@gmail.com" target="_blank"><img src="https://img.shields.io/badge/seon.hannn@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://velog.io/@seonhan" target="_blank"><img src="http://img.shields.io/badge/벨로그-20C997?style=flat-square&logo=blog&logoColor=white"/></a>
 
 #### About Me
 
-- I'm Jiseon, majoring in information and communication engineering at Myongji University.
+- 명지대학교 정보통신공학과 3학년에 재학중입니다.
 
-- I'm interested in web front-end skills.
+- 웹 프론트엔드 직무에 관심있습니다.
 
-- I like to record what I've learned. (TIL!)
+- 기록하는 것을 좋아합니다.
 
-- The present goal is to work as a developer In a company where I can grow.
+- 완벽한 성공은 없으며 실패에서도 반드시 배울 것이 있다고 생각합니다.
 
-- I am taking Yonsei University's web developer vocational education.
+- 지금의 목표는 제가 성장할 수 있는 곳에 입사하는 것입니다.
+
+- 22년 8월 한 달 간 온라인 연구 개발 인턴십을 수료하였습니다.
+
+- 22년 8월부터 연세대학교 캠퍼스타운형 취업사관학교 교육(웹 프론트엔드)을 이수하고 있습니다.
 
 #### Github Stats
 [![seonhannn's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonhannn)](https://github.com/seonhannn/github-readme-stats)
