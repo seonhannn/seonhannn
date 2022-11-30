@@ -10,7 +10,7 @@
 
 - 22년 8월 한 달 간 온라인 연구 개발 직무 인턴십을 수료하였습니다.
 
-- 22년 8월부터 연세대학교 캠퍼스타운형 취업사관학교 교육(웹 프론트엔드)을 이수하고 있습니다.
+- 22년 8월 - 11월 연세대학교 캠퍼스타운형 취업사관학교 교육(웹 프론트엔드)을 이수했습니다.
 
 #### Github Stats
 [![seonhannn's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonhannn)](https://github.com/seonhannn/github-readme-stats)
